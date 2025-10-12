@@ -16,21 +16,10 @@
   src: url('src/assets/Montserrat-BoldItalic.ttf');
 }
 
-@keyframes scroll {
-  from {
-    transfrom: translateX(0);
-  }
-  to {
-    transform: translateX(-100%);
-  }
-}
-
 @theme {
   --font-urban: "URBAN SHADOW", sans-serif;
   --font-jost: "Jost", sans-serif;
   --font-mont: "Montserrat", sans-serif;
-  --animate-scroll: scroll;
-  --animate-pause: animation-play-state:paused;
 }
 
 html {
