@@ -13,7 +13,7 @@ export const Hero = () => {
     <div className="mt-5">
         <div className="h-180 relative">
             <div className="2xl:top-25 2xl:left-55 xl:top-20 xl:left-0 xl:h-150 xl:w-150 absolute top-30 lg:w-110 lg:h-110 md:top-5 lg:top-35 lg:left-15 md:left-45 left-4 h-100 w-100 rounded-[50%] bg-gray-300 shadow-2xl"></div>
-            <img className="motion-preset-conefetti 2xl:left-10 relative xl:h-175 xl:left-[-150px] xl:top-5 z-30 h-120 right-15 top-20 lg:top-25 lg:left-[-50px] md:top-[-20px] md:left-20 rotate-340" src="src/assets/tike2.png" />
+            <img className="motion-preset-conefetti 2xl:left-10 relative xl:h-175 xl:left-[-150px] xl:top-5 z-30 h-120 right-15 top-20 lg:top-25 lg:left-[-50px] md:top-[-20px] md:left-20 rotate-340" src="/Nike-Concept-Landing-Page/assets/tike2.png" />
 
             <div className="2xl:top-120 2xl:left-75 xl:left-30 xl:top-125 xl:h-40 xl:w-40 absolute z-40 top-105 lg:top-105 lg:left-40 md:top-75 md:left-65 md:h-25 md:w-25 left-30 h-20 w-20 rounded-[50%] bg-radial from-red-500/20 to-white/10 backdrop-blur-[10px] shadow-xl"></div>
             <div className="2xl:top-60 2xl:left-150 xl:top-55 xl:left-95 xl:h-40 xl:w-40 absolute z-30 top-60 left-70 lg:top-60 lg:left-85 h-20 w-20 md:h-25 md:w-25 md:top-25 md:left-115 rounded-[50%] bg-radial from-red-500/20 to-white/10 backdrop-blur-[10px] shadow-xl"></div>

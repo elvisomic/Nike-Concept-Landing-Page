@@ -21,19 +21,19 @@ export const Shop = () => {
                 <Button href="https://www.nike.com/w/running-37v7j" />
                 <div className="bg-gradient-to-t from-black/90 to-transparent to-70% h-120 lg:h-130 xl:h-175 w-screen absolute"></div>
                 <Text children="Run the Streets" />
-                <Slika src="src/assets/nike-just-do-it.avif" prc="object-[66%] 2xl:w-screen" />
+                <Slika src="/Nike-Concept-Landing-Page/assets/nike-just-do-it.avif" prc="object-[66%] 2xl:w-screen" />
             </div>
             <div>
                 <Button href="https://www.nike.com/jordan/air-jordan-3" />
                 <div className="bg-gradient-to-t from-black/90 to-transparent to-70% h-120 lg:h-130 xl:h-175 w-screen absolute"></div>
                 <Text children="Airborne Since '88" />
-                <Slika prc="" src="src/assets/jordans3.jpg" />
+                <Slika prc="" src="/Nike-Concept-Landing-Page/assets/jordans3.jpg" />
             </div>
             <div className="">
                 <Button href="https://www.nike.com/w/basketball-shoes-3glsmzy7ok" />
                 <div className="bg-gradient-to-t from-black/90 to-transparent to-70% h-120 lg:h-130 xl:h-175 w-screen absolute"></div>
                 <Text children="Court-ready classics" />
-                <Slika prc="" src="src/assets/shoeZ.jpg" />
+                <Slika prc="" src="/Nike-Concept-Landing-Page/assets/shoeZ.jpg" />
             </div>
         </div>
         </section>

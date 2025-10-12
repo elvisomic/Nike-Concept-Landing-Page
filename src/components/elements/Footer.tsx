@@ -44,14 +44,14 @@ export const Footer = () => {
             <div className="hidden lg:block"></div>
             <div className="lg:mr-16 xl:mr-5">
                 <h2 className="mt-5 relative bottom-0 hidden lg:block ">This website is a non-commercial showcase project. It is not affiliated with, endorsed by, or connected to Nike Inc</h2>
-                <img src="src/assets/logonike.png" className="hidden md:block m-auto mt-8 h-10 ml-5" />
+                <img src="/Nike-Concept-Landing-Page/assets/logonike.png" className="hidden md:block m-auto mt-8 h-10 ml-5" />
 
             </div>
         </div>
 
 
         <h2 className="mt-5 relative bottom-0 lg:hidden">This website is a non-commercial showcase project. It is not affiliated with, endorsed by, or connected to Nike Inc</h2>
-        <img src="src/assets/logonike.png" className="inline-block h-10 md:hidden" />
+        <img src="/Nike-Concept-Landing-Page/assets/logonike.png" className="inline-block h-10 md:hidden" />
 
     </footer>
   );

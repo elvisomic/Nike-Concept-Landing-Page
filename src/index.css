@@ -5,15 +5,15 @@
 
 @font-face{
   font-family: "URBAN SHADOW";
-  src: url('src/assets/Urban Shadow Sans Serif.otf');
+  src: url('/Nike-Concept-Landing-Page/assets/Urban Shadow Sans Serif.otf');
 }
 @font-face{
   font-family: "Jost";
-  src: url('src/assets/Jost-Black.ttf');
+  src: url('/Nike-Concept-Landing-Page/assets/Jost-Black.ttf');
 }
 @font-face{
   font-family: "Montserrat";
-  src: url('src/assets/Montserrat-BoldItalic.ttf');
+  src: url('/Nike-Concept-Landing-Page/assets/Montserrat-BoldItalic.ttf');
 }
 
 @theme {
