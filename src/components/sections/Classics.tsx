@@ -1,5 +1,5 @@
 const Slika = ({ src, prc, altText }: { src:string, prc:string, altText:string }) => {
-    return <img src={src} className={`object-cover w-50 h-50 mr-6 2xl:w-70 2xl:h-100 ${prc}`} alt="" />;
+    return <img src={src} className={`object-cover w-50 h-50 mr-6 2xl:w-70 2xl:h-100 ${prc}`} alt={`${altText}`} />;
 }
 const Text = ({ children }: { children:string }) => {
     return <h2 className="text-[20px] text-black/70">{children}</h2>
