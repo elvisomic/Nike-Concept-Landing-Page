@@ -2,7 +2,7 @@ export const Disclaimer = () => {
     return(
         <section id="disclaimer" className="mt-30 mb-60">
             <div className="my-20">
-                <h1 className="text-center text-[44px] font-bold">DISCLAIMER</h1>
+                <h2 className="text-center text-[44px] font-bold">DISCLAIMER</h2>
                 <p className="px-10 md:px-40 lg:px-60 py-4 pt-10 text-[20px]">This website is a non-commercial showcase project developed exclusively for educational
                     and portfolio purposes. It has been created to demonstrate design, development, and technical skills to potential employers 
                     and is intended solely for use as part of a personal curriculum vitae (CV) and professional portfolio.</p>

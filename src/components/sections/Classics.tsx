@@ -9,7 +9,7 @@ export const Classics = () => {
     return (
         <section id="classics" className="my-30">
             <div>
-            <h1 className="text-[28px] opacity-70 mb-4 ml-2 mt-20">Shop The Classics</h1>
+            <h2 className="text-[28px] opacity-70 mb-4 ml-2 mt-20">Shop The Classics</h2>
                 <div className="whitespace-nowrap overflow-x-scroll px-2">
                     <div className="inline-block flex-col items-center">
                         <a href="https://www.nike.com/w/air-force-1-shoes-5sj3yzy7ok"><Slika src="/Nike-Concept-Landing-Page/assets/AirForce.avif" prc="" /></a>

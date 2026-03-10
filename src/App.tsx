@@ -12,7 +12,7 @@ function App() {
     useEffect(() => {
     AOS.init({ duration: 1000, once: false, mirror: true });
   }, []);
-    return <Layout title="Nike">
+    return <Layout title="Nike - Landing Page">
       <Navbar />
       <Hero />
       <Shop />
