@@ -10,7 +10,7 @@ export const Footer = () => {
         <hr className="p-5 border-gray-300" />
         <div className=" grid grid-cols-1 grid-rows-4 gap-y-8 md:grid-cols-4 md:grid-rows-1 lg:grid-cols-6 lg:ml-16 xl:ml-25" >
             <div className="flex flex-col justify-items-start gap-y-3 lg:gap-y-4">
-                <h1 className="font-bold">Resources</h1>
+                <h3 className="font-bold">Resources</h3>
                 <Link href="#" children="Gift Cards" />
                 <Link href="#" children="Find a Store" />
                 <Link href="#" children="Membership" />
@@ -18,7 +18,7 @@ export const Footer = () => {
                 <Link href="#" children="Site Feedback" />
             </div>
             <div className="flex flex-col justify-items-start gap-y-3 lg:gap-y-4">
-                <h1 className="font-bold">Help</h1>
+                <h3 className="font-bold">Help</h3>
                 <Link href="#" children="Get Help" />
                 <Link href="#" children="Order Status" />
                 <Link href="#" children="Shipping and Delivery" />
@@ -26,7 +26,7 @@ export const Footer = () => {
                 <Link href="#" children="Contact Us" />
             </div>            
             <div className="flex flex-col justify-items-start gap-y-3 lg:gap-y-4">
-                <h1 className="font-bold">Company</h1>
+                <h3 className="font-bold">Company</h3>
                 <Link href="#" children="About Nike" />
                 <Link href="#" children="News" />
                 <Link href="#" children="Careers" />
@@ -34,7 +34,7 @@ export const Footer = () => {
                 <Link href="#" children="Purpose" />
             </div>            
             <div className="flex flex-col items-start gap-y-3 lg:gap-y-4">
-                <h1 className="font-bold">Promotions & Discounts</h1>
+                <h3 className="font-bold">Promotions & Discounts</h3>
                 <Link href="#" children="Student" />
                 <Link href="#" children="Military" />
                 <Link href="#" children="Teacher" />
@@ -43,7 +43,7 @@ export const Footer = () => {
             </div>
             <div className="hidden lg:block"></div>
             <div className="lg:mr-16 xl:mr-5">
-                <h2 className="mt-5 relative bottom-0 hidden lg:block ">This website is a non-commercial showcase project. It is not affiliated with, endorsed by, or connected to Nike Inc</h2>
+                <h3 className="mt-5 relative bottom-0 hidden lg:block ">This website is a non-commercial showcase project. It is not affiliated with, endorsed by, or connected to Nike Inc</h3>
                 <img src="/Nike-Concept-Landing-Page/assets/logonike.png" className="hidden md:block m-auto mt-8 h-10 ml-5" />
 
             </div>
